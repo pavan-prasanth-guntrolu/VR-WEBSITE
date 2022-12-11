@@ -1,0 +1,232 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.logo {
+  width: 40px;
+}
+.banner-section-image {
+  background-image: url("https://res.cloudinary.com/dh6c27r32/image/upload/v1670476449/vr-banner-bg_dmwkzi.png");
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+}
+.banner-heading {
+  color: white;
+  font-weight: bold;
+}
+.banner-button {
+  border: none;
+  width: 100px;
+  height: 40px;
+  background-color: #1a2137;
+  color: white;
+  border-radius: 5px;
+}
+.features-head {
+  color: #1f2933;
+  text-align: center;
+}
+
+.features-heading-color {
+  color: #1f2933;
+  font-weight: bold;
+}
+
+.card-style-features {
+  border-style: none;
+  border-radius: 15px;
+}
+
+.features-img-size {
+  width: 70px;
+}
+
+.span-element {
+  font-style: italic;
+  font-weight: bold;
+}
+.vr-kit {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.kit-image-size {
+  width: 200px;
+  height: 250px;
+}
+.kit-align {
+  text-align: center;
+}
+.optics-size {
+  width: 100%;
+  height: 100%;
+}
+
+.optics-align {
+  text-align: center;
+}
+
+.optic-head-color {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.optic-para-color {
+  color: #7b8794;
+  font-family: "Roboto";
+}
+
+.optics-button {
+  background-color: #1a2137;
+  border-style: none;
+  color: white;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 5px;
+}
+.contact-us-img-size {
+  width: 100%;
+}
+
+.contact-us-background {
+  background-color: #222b36;
+  text-align: center;
+}
+
+.contact-us-heading {
+  font-family: "Roboto";
+  font-weight: bold;
+  color: white;
+}
+
+.contact-us-button {
+  border: solid;
+  color: white;
+  background-color: transparent;
+  border-color: white;
+  border-width: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 5px;
+}
+.trending-blogs-img-size {
+  width: 100%;
+}
+
+.trending-blog-link {
+  font-family: "Roboto";
+  font-weight: bold;
+  color: #1754a1;
+}
+
+.desc-box {
+  border-radius: 10px;
+}
+.tb-head {
+  color: #959ead;
+  font-weight: bold;
+}
+.tb-p {
+  color: #323f4b;
+  font-style: "Roboto";
+}
+.tb-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+.tb-bold-head {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.ps-heading {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.ps-bg-1 {
+  background-image: url("https://res.cloudinary.com/dh6c27r32/image/upload/v1670563061/vr-products-headset-img_s8ckbo.png");
+  color: white;
+  font-family: "Roboto";
+  font-weight: bold;
+  background-size: cover;
+  height: 800px;
+}
+.ps-bg-2 {
+  background-image: url("https://res.cloudinary.com/dh6c27r32/image/upload/v1670563117/vr-products-headset-with-controllers-img_jooxnh.png");
+  color: white;
+  font-family: "Roboto";
+  font-weight: bold;
+  background-size: cover;
+  height: 800px;
+}
+.ps-button {
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  background-color: transparent;
+  color: white;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+}
+.ps-viewall {
+  background-color: #1754a1;
+  padding-right: 55px;
+  padding-left: 55px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+}
+.foot-background {
+  background-color: #19232d;
+  color: #5a7184;
+}
+
+.foot-logo-size {
+}
+
+.foot-img-width {
+  width: 80px;
+  height: 50px;
+}
+
+.fa-google,
+.fa-twitter,
+.fa-instagram,
+.fa-linkedin {
+  color: #5a7184;
+  font-size: 40px;
+}
+
+.foot-sm-bg {
+  background-color: #202b36;
+  padding: 15px;
+  margin: 5px;
+  border-radius: 50%;
+}
+
+.cl-head {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+.border-top {
+  border-top: solid;
+  border: 12px #5a7184;
+  border-color: ;
+}
+.copyright {
+  color: #959ead;
+}
